@@ -10,7 +10,7 @@
 2. Сделал копию в личное хранилище [от сюда](https://github.com/Kurtyanik/LR6/).
 3. Установил Git [от сюда](https://git-scm.com).
 4. После установки настроил клиент Git, введя имя пользователя (4918 Плеханов Е.С.) и email (egor.plekhanov00@mail.ru).
-Использовал команды:<br>git config --global user.name "4917 Плеханов Е.С.";<br>git config --global user.email egor.plekhanov00@mail.ru.
+Использовал команды:<br>git config --global user.name "4918 Плеханов Е.С.";<br>git config --global user.email egor.plekhanov00@mail.ru.
 5. Клонировал удаленный репозиторий на компьютер.<br>
 Использовал команду:<br>git clone https://github.com/EgorPlehanov/LR6.git<br>
 	![Рисунок 1](https://github.com/EgorPlehanov/LR6/blob/report/Screenshots/%D0%9F%D1%83%D0%BD%D0%BA%D1%82%D1%8B%204-5.png?raw=true "Демонстация выполнения пунктов 4 и 5")<br>
